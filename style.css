@@ -1,19 +1,21 @@
-textarea{
-    
-    height:25vh;
-    width:40%;
+#output{
+
+    border:1px solid black;
+    height:15vh;
+    width:95%;
     margin:1rem;
     padding:1rem;
-}
-
-.txtareadiv{
-    display:block;
-    text-align: center;
 
 }
-.btnholderdiv{
+
+
+textarea{
     display: block;
-   
-    align-items: center;
-    text-align: center;
+    height: 20vh;
+    width:92%; 
+    margin:1rem 1rem;
+    padding:1rem 2rem;  
+    font-size: x-large;  
+    font-family: 'Titillium Web', sans-serif;
+    color:#334155;
 }
